@@ -1,0 +1,11 @@
+int a=0;
+ int b=0;
+ int result;
+ 
+ printf("enter first number:");
+ scanf("%d",&a);
+ printf("enter second number:");
+ scanf("%d",&b);
+ 
+ result=a+b;
+ printf("sum of two number:%d",result);
